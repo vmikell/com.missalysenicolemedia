@@ -2,6 +2,14 @@ window.onscroll = function () {
   scrollNavBar()
 }
 
+// close mobile menu
+const navLink = document.querySelectorAll('.nav-link')
+navLink.forEach((link) => {
+  link.addEventListener('click', () => {
+    document.querySelector('.navbar-collapse ').classList.remove('show')
+  })
+})
+
 function scrollNavBar() {
   if (window.innerWidth > 992) {
     if (
