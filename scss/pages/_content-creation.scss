@@ -1,0 +1,14 @@
+@use '../custom' as *;
+
+.content-creation-offerings {
+  color: $text;
+  position: relative;
+  padding-top: 5rem;
+  .header-hr {
+    position: relative;
+    width: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 2px;
+  }
+}

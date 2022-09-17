@@ -1,0 +1,66 @@
+@use '../custom' as *;
+
+.contact {
+  font-family: 'Jost';
+  position: relative;
+  overflow: hidden;
+
+  &-text {
+    background-color: $primary;
+    position: relative;
+    height: 700px;
+    @include media-breakpoint-down(sm) {
+      height: 350px;
+    }
+    h2,
+    p {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translateX(-50%);
+      max-width: 50%;
+      color: $text;
+      @include media-breakpoint-down(sm) {
+        top: 40%;
+      }
+      a {
+        color: $text;
+        text-decoration: none;
+        transition: 0.5s;
+        &:hover{
+          color: $white;
+        }
+      }
+    }
+    h2 {
+      top: 40%;
+      @include media-breakpoint-down(sm) {
+        top: 25%;
+      }
+    }
+  }
+  &-img {
+    position: relative;
+    background-color: $secondary;
+    height: 700px;
+    @include media-breakpoint-down(sm) {
+      height: 350px;
+    }
+    img {
+      position: relative;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 590px;
+      height: 590px;
+      object-fit: cover;
+      border-style: solid;
+      border-width: 15px;
+      border-color: #ffffff;
+      @include media-breakpoint-down(sm) {
+        width: 325px;
+        height: 325px;
+      }
+    }
+  }
+}

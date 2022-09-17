@@ -1,0 +1,13 @@
+// FONT COLORS
+$text: #444444;
+$nav-social: #999999;
+
+$yellow-dark: #feb643;
+$yellow-light: #fec16d;
+
+$primary: $yellow-dark;
+$secondary: #f1f0eb;
+$body-background: rgba(#f1f0eb, .5);
+
+//Import Bootstrap 5
+@import '../node_modules/bootstrap/scss/bootstrap.scss';

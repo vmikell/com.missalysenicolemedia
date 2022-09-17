@@ -1,0 +1,123 @@
+@use '../custom' as *;
+
+.hero {
+  font-family: 'Jost';
+  letter-spacing: 3.25px;
+  font-size: 18px;
+  background-color: rgba(#e8ad9e, 0.35);
+  position: relative;
+  height: 765px;
+  padding-top: 140px;
+  @include media-breakpoint-down(xl) {
+    height: 900px;
+    margin-top: 119px;
+    padding-top: 15px;
+  }
+  @include media-breakpoint-down(sm) {
+    height: 400px;
+    padding-top: 40px;
+  }
+  &-container,
+  &-img-container,
+  &-text-container {
+    position: relative;
+    height: 665px;
+    margin-bottom: auto;
+    @include media-breakpoint-down(sm) {
+      height: 400px;
+    }
+    a {
+      color: $text;
+      transition: 0.5s;
+      &:hover {
+        color: $primary;
+      }
+    }
+  }
+  &-img {
+    position: absolute;
+    width: 599px;
+    height: 599px;
+    object-fit: cover;
+    border-style: solid;
+    border-width: 15px;
+    border-color: #ffffff;
+    top: 8rem;
+    right: 0rem;
+    @include media-breakpoint-down(xl) {
+      top: 4rem;
+      left: 50%;
+      transform: translateX(-45%);
+    }
+    @include media-breakpoint-down(sm) {
+      width: 300px;
+      height: 300px;
+      top: 2rem;
+    }
+  }
+  &-img-background {
+    position: absolute;
+    width: 599px;
+    height: 499px;
+    object-fit: cover;
+    top: 5rem;
+    left: 0;
+    @include media-breakpoint-down(xl) {
+      top: 2rem;
+      left: 0;
+    }
+    @include media-breakpoint-down(sm) {
+      width: 300px;
+      height: 250px;
+      top: 0;
+    }
+  }
+  span {
+    position: absolute;
+    opacity: 0.5;
+    left: 2rem;
+    bottom: 2rem;
+    width: fit-content;
+    z-index: 1;
+  }
+  &-header-container {
+    position: relative;
+    top: 35%;
+    left: -15.5%;
+    width: fit-content;
+    z-index: 999;
+    @include media-breakpoint-down(xl) {
+      top: -2rem;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+    @include media-breakpoint-down(sm) {
+      top: -3.75rem;
+    }
+  }
+  &-header {
+    position: relative;
+    font-size: 2rem;
+    background-color: $primary;
+    margin-bottom: 15px;
+    width: fit-content;
+    padding: 0.25rem 0.5rem;
+    @include media-breakpoint-down(xl) {
+      left: 50%;
+      transform: translateX(-50%);
+    }
+    @include media-breakpoint-down(sm) {
+      font-size: 1.45rem;
+    }
+  }
+  &-text-container {
+    top: 35%;
+    @include media-breakpoint-down(xl) {
+      text-align: center;
+      top: -1.5rem;
+    }
+    @include media-breakpoint-down(sm) {
+      top: -3.5rem;
+    }
+  }
+}

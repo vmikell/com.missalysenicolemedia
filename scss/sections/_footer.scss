@@ -1,0 +1,96 @@
+@use '../custom' as *;
+
+.footer {
+  position: relative;
+  font-family: 'Jost';
+  background-color: $secondary;
+
+  &-handle {
+    position: relative;
+    top: -25px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: $white;
+    width: 325px;
+    height: 50px;
+    line-height: 3rem;
+    letter-spacing: 3.25px;
+    font-size: 15px;
+    font-weight: 700;
+    a {
+      color: $text;
+      text-decoration: none;
+      transition: 0.5s;
+      &:hover {
+        color: $primary;
+      }
+    }
+  }
+  &-links {
+    display: flex;
+    width: 100%;
+    list-style: none;
+    @include media-breakpoint-down(sm) {
+      display: inline-flex;
+      padding: 0;
+    }
+    li {
+      a {
+        text-decoration: none;
+        color: $text;
+        margin: 1rem;
+        font-size: 13px;
+        font-weight: 600;
+        letter-spacing: 3.25px;
+        transition: 0.5s;
+        @include media-breakpoint-down(sm) {
+          margin: 0.45rem;
+        }
+        &:hover {
+          color: $primary;
+        }
+      }
+    }
+  }
+  &-social {
+    span {
+      background-color: #f6e0ce;
+      margin: 0 10px 0 0;
+      font-size: 15px;
+      display: inline-block;
+      line-height: 10px;
+      padding: 10px 12px;
+      border-radius: 50%;
+      a {
+        color: $text;
+        i {
+          transition: 0.5s;
+          &:hover {
+            color: $primary;
+          }
+        }
+      }
+    }
+  }
+  img {
+    position: relative;
+    bottom: -2.25rem;
+    opacity: 0.65;
+    transform: rotate(10deg);
+  }
+  &-copyright {
+    background-color: $white;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 3.25px;
+    a {
+      color: $text;
+      text-decoration: none;
+      transition: 0.5s;
+      &:hover {
+        color: $primary;
+      }
+    }
+  }
+}

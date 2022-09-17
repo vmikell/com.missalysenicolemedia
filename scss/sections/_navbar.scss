@@ -1,0 +1,67 @@
+@use '../custom' as *;
+
+nav {
+  background-color: rgba($white, 1);
+  transition: 0.5s;
+  .logo-img {
+    max-width: 200px;
+    transition: 0.65s;
+    @include media-breakpoint-down(xl) {
+      max-width: 150px;
+    }
+    &-mobile {
+      transition: 0.65s;
+      max-width: 150px;
+      margin-left: 0.5rem;
+    }
+  }
+
+  ul {
+    font-family: 'Jost';
+    text-transform: lowercase;
+    font-weight: 700;
+    font-size: 13px;
+    color: $text;
+    letter-spacing: 3.25px;
+    @include media-breakpoint-down(lg) {
+      background-color: $white;
+    }
+
+    li {
+      margin: 0 1rem;
+      .nav-link {
+        color: $text;
+        transition: 0.5s;
+        &:hover {
+          color: $primary;
+        }
+      }
+    }
+  }
+  span {
+    position: absolute;
+    right: 1.5rem;
+    i {
+      font-size: 12px;
+      margin: 0 0.75rem;
+      color: $nav-social;
+      transition: 0.5s;
+      &:hover {
+        color: $primary;
+      }
+    }
+  }
+  .navbar-text {
+    @include media-breakpoint-down(lg) {
+      display: none;
+    }
+    &-dropdown {
+      text-align: center;
+      left: 50%;
+      transform: translateX(-50%);
+      // bottom: 0;
+      padding-top: 1rem;
+      width: 170px;
+    }
+  }
+}
