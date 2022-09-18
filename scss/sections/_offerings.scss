@@ -36,6 +36,26 @@
       left: 0;
     }
   }
+  &-header {
+    a {
+      color: $text;
+      text-decoration: none;
+      transition: 0.5s;
+      &:hover {
+        color: $primary;
+      }
+    }
+  }
+  &-text {
+    a {
+      color: rgba(128, 128, 128, 1);
+      text-decoration: none;
+      transition: 0.5s;
+      &:hover {
+        color: $primary;
+      }
+    }
+  }
   &-img-card {
     @include media-breakpoint-down(lg) {
       text-align: center;

@@ -10815,7 +10815,7 @@ nav span {
   right: 1.5rem;
 }
 nav span i {
-  font-size: 12px;
+  font-size: 18px;
   margin: 0 0.75rem;
   color: #999999;
   transition: 0.5s;
@@ -11064,6 +11064,22 @@ nav .navbar-text-dropdown {
     left: 0;
   }
 }
+.offerings-header a {
+  color: #444444;
+  text-decoration: none;
+  transition: 0.5s;
+}
+.offerings-header a:hover {
+  color: #feb643;
+}
+.offerings-text a {
+  color: rgb(128, 128, 128);
+  text-decoration: none;
+  transition: 0.5s;
+}
+.offerings-text a:hover {
+  color: #feb643;
+}
 @media (max-width: 991.98px) {
   .offerings-img-card {
     text-align: center;
@@ -11158,7 +11174,7 @@ nav .navbar-text-dropdown {
   left: 50%;
   transform: translateX(-50%);
   background-color: #fff;
-  width: 325px;
+  width: 350px;
   height: 50px;
   line-height: 3rem;
   letter-spacing: 3.25px;
@@ -11180,7 +11196,7 @@ nav .navbar-text-dropdown {
 }
 @media (max-width: 575.98px) {
   .footer-links {
-    display: inline-flex;
+    flex-direction: column;
     padding: 0;
   }
 }
