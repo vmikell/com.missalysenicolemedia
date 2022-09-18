@@ -10964,7 +10964,7 @@ nav .navbar-text-dropdown {
 }
 @media (max-width: 575.98px) {
   .hero-header {
-    font-size: 1.45rem;
+    font-size: 1.15rem;
   }
 }
 .hero-text-container {
@@ -11037,17 +11037,6 @@ nav .navbar-text-dropdown {
     width: 300px;
   }
 }
-.offerings-img-card span {
-  position: absolute;
-  top: 150px;
-  transform: translate(-50%, -50%);
-  background-color: #fff;
-  width: 75px;
-  height: 75px;
-  font-size: 36px;
-  text-align: center;
-  line-height: 75px;
-}
 .offerings-text-card {
   position: relative;
   top: 50%;
@@ -11084,6 +11073,9 @@ nav .navbar-text-dropdown {
   .offerings-img-card {
     text-align: center;
   }
+}
+.offerings-title {
+  padding-top: 85px;
 }
 
 .contact {

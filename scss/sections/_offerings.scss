@@ -12,17 +12,6 @@
         width: 300px;
       }
     }
-    span {
-      position: absolute;
-      top: 150px;
-      transform: translate(-50%, -50%);
-      background-color: $white;
-      width: 75px;
-      height: 75px;
-      font-size: 36px;
-      text-align: center;
-      line-height: 75px;
-    }
   }
   &-text-card {
     position: relative;
@@ -60,5 +49,8 @@
     @include media-breakpoint-down(lg) {
       text-align: center;
     }
+  }
+  &-title {
+    padding-top: 85px;
   }
 }
