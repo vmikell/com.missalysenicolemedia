@@ -35,6 +35,10 @@ nav {
         &:hover {
           color: $primary;
         }
+        &:active,
+        &:focus{
+          color: $text;
+        }
       }
     }
   }

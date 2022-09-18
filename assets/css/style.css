@@ -10810,6 +10810,9 @@ nav ul li .nav-link {
 nav ul li .nav-link:hover {
   color: #feb643;
 }
+nav ul li .nav-link:active, nav ul li .nav-link:focus {
+  color: #444444;
+}
 nav span {
   position: absolute;
   right: 1.5rem;
@@ -11019,6 +11022,10 @@ nav .navbar-text-dropdown {
   top: -19px;
   left: 50%;
   transform: translateX(-50%);
+}
+.services img {
+  width: 300px;
+  height: 300px;
 }
 
 .offerings {
