@@ -11256,6 +11256,24 @@ nav .navbar-text-dropdown {
   color: #feb643;
 }
 
+.back-to-top {
+  position: fixed;
+  width: 3rem;
+  height: 3rem;
+  right: 1.875rem;
+  bottom: 1.875rem;
+  z-index: 9999;
+  background-color: #feb643 !important;
+}
+.back-to-top i {
+  position: absolute;
+  color: #fff;
+  font-size: 1rem;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 .content-creation-offerings {
   color: #444444;
   position: relative;
