@@ -25,10 +25,13 @@
         color: $primary;
       }
     }
+    &-address {
+      background-color: $white;
+    }
   }
   &-links {
     display: flex;
-
+    margin-top: 3rem;
     width: 100%;
     list-style: none;
     @include media-breakpoint-down(sm) {
