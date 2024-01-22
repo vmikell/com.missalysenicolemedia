@@ -11085,10 +11085,22 @@ nav .navbar-text-dropdown {
   padding-top: 85px;
 }
 
+.partner-carousel {
+  height: 400px;
+  width: 100%;
+  margin: auto;
+  background-color: #ffffff;
+}
+.partner-carousel img {
+  max-height: 400px;
+  object-fit: contain;
+}
+
 .contact {
   font-family: "Jost";
   position: relative;
   overflow: hidden;
+  margin-top: 2rem;
 }
 .contact-text {
   background-color: #feb643;
@@ -11188,8 +11200,12 @@ nav .navbar-text-dropdown {
 .footer-handle a:hover {
   color: #feb643;
 }
+.footer-handle-address {
+  background-color: #fff;
+}
 .footer-links {
   display: flex;
+  margin-top: 3rem;
   width: 100%;
   list-style: none;
 }

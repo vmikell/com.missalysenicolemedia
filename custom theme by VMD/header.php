@@ -8,7 +8,7 @@
     content="MissAlyseNicoleMedia.com - offering content creation, social media management, photography and visual arts in Massachusetts and New England.">
   <meta name="twitter:title" content="MissAlyseNicoleMedia.com">
   <meta name="twitter:description" content="MissAlyseNicoleMedia.com - social media . visual arts . content creation">
-  <title>Miss Alyse Nicole Media, LLC</title>
+  <title>Miss Alyse Nicole Media</title>
   <!-- import custom styles -->
   <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/style.css" type="text/css" media="all" />
   <!-- import fonts -->
@@ -33,7 +33,7 @@
 
   <nav class="navbar navbar-expand-lg fixed-top">
     <a class="navbar-brand d-lg-none" href="#">
-      <img src="https://missalysenicolemedia.com/wp-content/uploads/2022/09/cropped-MAN-Moon-Logo-Bright.png" class="logo-img-mobile">
+      <img src="https://missalysenicolemedia.com/wp-content/uploads/2022/09/cropped-MAN-Moon-Logo-Bright.png" class="logo-img-mobile" alt="thingstodoinsalem.com, part of miss alyse nicole media, miss alyse nicole media logo">
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#myNavbarToggler7"
       aria-controls="myNavbarToggler7" aria-expanded="false" aria-label="Toggle navigation">
@@ -48,7 +48,7 @@
           <a class="nav-link" href="/index.php#services">Services</a>
         </li>
         <a class="d-none d-lg-block" href="#">          
-          <img src="https://missalysenicolemedia.com/wp-content/uploads/2022/09/cropped-MAN-Moon-Logo-Bright.png" class="logo-img" id="logo-img">
+          <img src="https://missalysenicolemedia.com/wp-content/uploads/2022/09/cropped-MAN-Moon-Logo-Bright.png" class="logo-img" id="logo-img" alt="thingstodoinsalem.com, part of miss alyse nicole media, miss alyse nicole media logo">
         </a>
         <li class="nav-item mt-5">
           <a class="nav-link" href="/index.php#my-platforms">my platforms</a>
@@ -65,3 +65,15 @@
       <a href="mailto:alyse@missalysenicolemedia.com"><i class="fa-solid fa-envelope"></i></a>
     </span>
   </nav>
+  
+  <!--
+  ================
+  NAVBAR ENDS HERE
+  ================
+  -->
+    <!-- back to top button starts here -->
+    
+    <a href="#" class="shadow btn-primary rounded-circle back-to-top">
+      <i class="fas fa-chevron-up"></i>
+    </a>
+  <!--
