@@ -11,24 +11,23 @@
         <div class="col-xl-7 col-lg-12 col-md-12">
           <div class="hero-img-container">
             <img src="https://missalysenicolemedia.com/wp-content/uploads/2022/09/pexels-alex-rusin-3270593-scaled.jpg" class="hero-img-background">
-            <img src="https://thingstodoinsalem.com/wp-content/uploads/2021/11/20211106_135927.jpg"
-              alt="Alyse Nicole Portrait Image" class="hero-img">
+            <img src="https://thingstodoinsalem.com/wp-content/uploads/2024/01/Untitled-design-3.png"
+              alt="thingstodoinsalem.com, part of miss alyse nicole media, Alyse Grimm Portrait Image, photograph by Victor Mikell Design" class="hero-img">
           </div>
         </div>
         <div class="col-xl-5 col-lg-12 col-md-12">
           <div class="hero-header-container">
-            <div class="hero-header">Digital content creation,</div>
+            <div class="hero-header">media & marketing,</div>
+            <div class="hero-header">content creation,</div>
             <div class="hero-header">social media & visual arts.</div>
           </div>
           <div class="hero-text-container">
-            <p class="hero-text ">Social media manager, influencer, blogger and photographer. Let me
-              show
-              you how we can work together to build your platform.</p>
+            <p class="hero-text ">Let me show you how we can work together to build your platform & grow your reach.</p>
             <a href="#contact">let's chat</a>
           </div>
           </col-md-6>
         </div>
-        <span><img src="https://missalysenicolemedia.com/wp-content/uploads/2022/09/wave_graphic_dark_pink.png" alt="wave_graphic_dark_pink"></span>
+        <span><img src="https://missalysenicolemedia.com/wp-content/uploads/2022/09/wave_graphic_dark_pink.png" alt="thingstodoinsalem.com, part of miss alyse nicole media, wave graphic dark pink"></span>
       </div>
 
     </div>
@@ -56,7 +55,7 @@
       <div class="row services-cards text-center mb-5">
         <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 mb-5">
           <a href="/navigation/content-creation.html">
-            <img src="https://salemmawedding.com/wp-content/uploads/2021/07/26-450x380.jpg" alt="content creation card"
+            <img src="https://salemmawedding.com/wp-content/uploads/2021/07/26-450x380.jpg" alt="thingstodoinsalem.com, part of miss alyse nicole media, content creation card"
               class="services-card">
             <p class="services-card-title">content creation</p></img>
           </a>
@@ -65,7 +64,7 @@
           <a href="/navigation/social-media.html">
             <img
               src="https://salemmawedding.com/wp-content/uploads/2021/07/julia-peretiatko-MoYQ6DD-aoE-unsplash-1-scaled-1-450x380.jpg"
-              alt="social media card" class="services-card">
+              alt="social media card" class="thingstodoinsalem.com, part of miss alyse nicole media, services-card">
             <p class="services-card-title">social media</p>
           </a>
         </div>
@@ -78,7 +77,7 @@
         </div>
         <div class="col-xl-3 col-lg-6 col-md-6 col-sm-12 mb-5">
           <a href="http://PhotographybyThingstodoinSalem.com/" target="_blank">
-            <img src="https://salemmawedding.com/wp-content/uploads/2022/09/Untitled-design.png" alt="photography card"
+            <img src="https://salemmawedding.com/wp-content/uploads/2022/09/Untitled-design.png" alt="thingstodoinsalem.com, part of miss alyse nicole media, photography card"
               class="services-card">
             <p class="services-card-title">photography</p>
           </a>
@@ -107,7 +106,7 @@
           <div class="col-lg-4 col-md-12">
             <div class="offerings-img-card">
               <a href="https://thingstodoinsalem.com" target="_blank"><img src="https://missalysenicolemedia.com/wp-content/uploads/2022/09/ttdis-legs-logo.png"
-                  alt="ThingstodoinSalem.com Logo" class="offerings-img"></a>
+                  alt="thingstodoinsalem.com, part of miss alyse nicole media, ThingstodoinSalem.com Logo" class="offerings-img"></a>
             </div>
           </div>
           <div class="col-lg-8 col-md-12 offerings-text-container">
@@ -137,7 +136,7 @@
           <div class="col-lg-4 col-md-12">
             <div class="offerings-img-card">
               <a href="https://salemmawedding.com" target="_blank"><img src="https://missalysenicolemedia.com/wp-content/uploads/2022/09/smw-logo.png"
-                  alt="SalemMAWedding.com Logo" class="offerings-img"></a>
+                  alt="thingstodoinsalem.com, part of miss alyse nicole media, SalemMAWedding.com Logo" class="offerings-img"></a>
             </div>
           </div>
           <div class="col-lg-8 col-md-12 offerings-text-container">
@@ -166,7 +165,7 @@
           <div class="col-lg-4 col-md-12">
             <div class="offerings-img-card">
               <a href="http://PhotographybyThingstodoinSalem.com" target="_blank"><img
-                  src="https://missalysenicolemedia.com/wp-content/uploads/2022/09/pbttdis-logo.png" alt="PhotographybyThingstodoinSalem.com Logo"
+                  src="https://missalysenicolemedia.com/wp-content/uploads/2022/09/pbttdis-logo.png" alt="thingstodoinsalem.com, part of miss alyse nicole media, PhotographybyThingstodoinSalem.com Logo"
                   class="offerings-img"></a>
             </div>
           </div>
@@ -190,6 +189,36 @@
         </div>
       </div>
       <hr>
+      <div class="col-md-12 mt-5 mb-5">
+        <div class="row">
+          <div class="col-lg-4 col-md-12">
+            <div class="offerings-img-card">
+              <a href="https://witchcitycoven.com" target="_blank"><img
+                  src="https://thingstodoinsalem.com/wp-content/uploads/2024/06/witchcitycoven.png"
+                  alt="thingstodoinsalem.com, part of miss alyse nicole media, WitchCityCoven.com Logo"
+                  class="offerings-img"></a>
+            </div>
+          </div>
+          <div class="col-lg-8 col-md-12 offerings-text-container">
+            <div class="offerings-text-card">
+              <h4 class="offerings-header"><a href="https://witchcitycoven.com"
+                  target="_blank">WitchCityCoven.com</a></h4>
+              <p class="offerings-text">Work with and learn from a witch in Salem, MA. I have been a practicing Pagan
+                and witch for 20+ years and have been
+                reading tarot professionally for 10+ years. In addition to that I have led groups and workshops on
+                various topics within
+                Paganism around New England as well as facilitated for two covens. WitchCityCoven.com is home to several
+                online self
+                paced courses, digital downloads, resources and more. <br>
+                <a href="https://witchcitycoven.com">
+                  Take the overwhelm out of learning Paganism, witchcraft, magick, tarot and more at WitchCityCoven.com.
+                </a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <hr>
     </div>
   </section>
   <!-- 
@@ -197,11 +226,55 @@
   OFFERINGS END HERE
   ==================  
     -->
+    <!-- 
+    ====================  
+    CAROUSEL START HERE
+    ====================  
+      -->
+      <h5 class="text-center mt-0">Alyse has worked with the following businesses and brands:</h5>
+      <br>
+  <section class="partner-carousel">
+    
+    <div id="carouselControls" class="carousel slide carousel-dark" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://thingstodoinsalem.com/wp-content/uploads/2024/01/slide1.png" class="d-block w-100" alt="thingstodoinsalem.com, part of miss alyse nicole media, business partners slide 1">
+        </div>
+        <div class="carousel-item">
+          <img src="https://thingstodoinsalem.com/wp-content/uploads/2024/01/slide2.png" class="d-block w-100" alt="thingstodoinsalem.com, part of miss alyse nicole media, business partners slide 2">
+        </div>
+        <div class="carousel-item">
+          <img src="https://thingstodoinsalem.com/wp-content/uploads/2024/01/slide3.png" class="d-block w-100" alt="thingstodoinsalem.com, part of miss alyse nicole media, business partners slide 3">
+        </div>
+        <div class="carousel-item">
+          <img src="https://thingstodoinsalem.com/wp-content/uploads/2024/01/slide4.png" class="d-block w-100" alt="thingstodoinsalem.com, part of miss alyse nicole media, business partners slide 4">
+        </div>
+        <div class="carousel-item">
+          <img src="https://thingstodoinsalem.com/wp-content/uploads/2024/06/slide5.png" class="d-block w-100" alt="thingstodoinsalem.com, part of miss alyse nicole media, business partners slide 5">
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselControls" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselControls" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+
+  </section>
+
+  <!-- 
+      ================== 
+      CAROUSEL END HERE
+      ================== 
+        -->
   <!--
-  ===================  
-  CONTACT STARTS HERE
-  ===================  
-  -->
+      ===================  
+      CONTACT STARTS HERE
+      ===================  
+      -->
   <section class="contact mt-5 pb-5" id="contact">
     <div class="row">
       <div class="col-xl-6 col-lg-12 col-md-12 contact-text">
@@ -209,17 +282,20 @@
         <p class="text-center align-middle">Thank you for your interest in contacting me.
           Feel free to send your email directly
           to <a href="mailto:alyse@missalysenicolemedia.com">alyse@missalysenicolemedia.com</a>. I look forward to
-          speaking with you.</p>
+          speaking with you.
+          <br><br>
+          Alyse is located in Salem, MA.
+        </p>
       </div>
       <div class="col-xl-6 col-lg-12 col-md-12 contact-img justify-content-center">
-        <img class="text-center" src="https://missalysenicolemedia.com/wp-content/uploads/2022/09/typewriter-1.jpg" alt="Miss Alyse Nicole Media, LLC Contact Image">
+        <img class="text-center" src="https://missalysenicolemedia.com/wp-content/uploads/2022/09/typewriter-1.jpg" alt="thingstodoinsalem.com, part of miss alyse nicole media, typewriter image">
       </div>
     </div>
   </section>
   <!--
-    ================= 
-    CONTACT ENDS HERE
-    ================= 
-    -->
+        ================= 
+        CONTACT ENDS HERE
+        ================= 
+        -->
 
    <?php get_footer(); ?>
