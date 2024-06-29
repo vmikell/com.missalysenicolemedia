@@ -194,7 +194,7 @@
           <div class="col-lg-4 col-md-12">
             <div class="offerings-img-card">
               <a href="https://witchcitycoven.com" target="_blank"><img
-                  src="https://thingstodoinsalem.com/wp-content/uploads/2024/06/witchcitycoven.png"
+                  src="https://thingstodoinsalem.com/wp-content/uploads/2024/06/witchcitycoven0.png"
                   alt="thingstodoinsalem.com, part of miss alyse nicole media, WitchCityCoven.com Logo"
                   class="offerings-img"></a>
             </div>
@@ -250,7 +250,7 @@
           <img src="https://thingstodoinsalem.com/wp-content/uploads/2024/01/slide4.png" class="d-block w-100" alt="thingstodoinsalem.com, part of miss alyse nicole media, business partners slide 4">
         </div>
         <div class="carousel-item">
-          <img src="https://thingstodoinsalem.com/wp-content/uploads/2024/06/slide5.png" class="d-block w-100" alt="thingstodoinsalem.com, part of miss alyse nicole media, business partners slide 5">
+          <img src="https://thingstodoinsalem.com/wp-content/uploads/2024/06/slide05.png" class="d-block w-100" alt="thingstodoinsalem.com, part of miss alyse nicole media, business partners slide 5">
         </div>
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselControls" data-bs-slide="prev">
